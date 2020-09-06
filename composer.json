@@ -1,5 +1,5 @@
 {
-    "name": "symfony/amazon-sqs-messenger",
+    "name": "netbull/amazon-sqs-messenger",
     "type": "symfony-bridge",
     "description": "Symfony Amazon SQS extension Messenger Bridge",
     "keywords": [],
